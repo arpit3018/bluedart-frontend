@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "billno": 1000,
+      "billname": "James Butt",
+      "weight": 25,
+      "location": "Benton, John B Jr",
+      "price": 50,
+      "tdate": "2015-09-13"
+    },
+    {
+      "billno": 1001,
+      "billname": "James Butt",
+      "weight": 25,
+      "location": "Benton, John B Jr",
+      "price": 100,
+      "tdate": "2015-09-13"
+    }
+  ]
+}
