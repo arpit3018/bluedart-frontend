@@ -5,15 +5,15 @@
     "static/js/1.c67d061f.chunk.js": "/bluedart-frontend/static/js/1.c67d061f.chunk.js",
     "static/js/1.c67d061f.chunk.js.map": "/bluedart-frontend/static/js/1.c67d061f.chunk.js.map",
     "main.css": "/bluedart-frontend/static/css/main.4241cace.chunk.css",
-    "main.js": "/bluedart-frontend/static/js/main.1cd273d4.chunk.js",
-    "main.js.map": "/bluedart-frontend/static/js/main.1cd273d4.chunk.js.map",
+    "main.js": "/bluedart-frontend/static/js/main.bedd241b.chunk.js",
+    "main.js.map": "/bluedart-frontend/static/js/main.bedd241b.chunk.js.map",
     "runtime-main.js": "/bluedart-frontend/static/js/runtime-main.b2e702f0.js",
     "runtime-main.js.map": "/bluedart-frontend/static/js/runtime-main.b2e702f0.js.map",
     "static/js/4.454f5142.chunk.js": "/bluedart-frontend/static/js/4.454f5142.chunk.js",
     "static/js/4.454f5142.chunk.js.map": "/bluedart-frontend/static/js/4.454f5142.chunk.js.map",
     "static/css/5.a7acce0b.chunk.css": "/bluedart-frontend/static/css/5.a7acce0b.chunk.css",
-    "static/js/5.f2245eee.chunk.js": "/bluedart-frontend/static/js/5.f2245eee.chunk.js",
-    "static/js/5.f2245eee.chunk.js.map": "/bluedart-frontend/static/js/5.f2245eee.chunk.js.map",
+    "static/js/5.6a8861db.chunk.js": "/bluedart-frontend/static/js/5.6a8861db.chunk.js",
+    "static/js/5.6a8861db.chunk.js.map": "/bluedart-frontend/static/js/5.6a8861db.chunk.js.map",
     "static/js/6.46c61af5.chunk.js": "/bluedart-frontend/static/js/6.46c61af5.chunk.js",
     "static/js/6.46c61af5.chunk.js.map": "/bluedart-frontend/static/js/6.46c61af5.chunk.js.map",
     "static/js/7.6e53a365.chunk.js": "/bluedart-frontend/static/js/7.6e53a365.chunk.js",
@@ -26,7 +26,7 @@
     "static/js/0.dbabcb13.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/0.dbabcb13.chunk.js.LICENSE.txt",
     "static/js/1.c67d061f.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/1.c67d061f.chunk.js.LICENSE.txt",
     "static/js/4.454f5142.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/4.454f5142.chunk.js.LICENSE.txt",
-    "static/js/5.f2245eee.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/5.f2245eee.chunk.js.LICENSE.txt",
+    "static/js/5.6a8861db.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/5.6a8861db.chunk.js.LICENSE.txt",
     "static/js/6.46c61af5.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/6.46c61af5.chunk.js.LICENSE.txt",
     "static/js/7.6e53a365.chunk.js.LICENSE.txt": "/bluedart-frontend/static/js/7.6e53a365.chunk.js.LICENSE.txt",
     "static/media/primeicons.css": "/bluedart-frontend/static/media/primeicons.e61f3495.woff"
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.b2e702f0.js",
     "static/css/5.a7acce0b.chunk.css",
-    "static/js/5.f2245eee.chunk.js",
+    "static/js/5.6a8861db.chunk.js",
     "static/css/main.4241cace.chunk.css",
-    "static/js/main.1cd273d4.chunk.js"
+    "static/js/main.bedd241b.chunk.js"
   ]
 }
